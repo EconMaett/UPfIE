@@ -1,0 +1,6 @@
+affairs = woo.dataWoo('affairs')
+
+# use a pandas.Categorical object to attach labels:
+affairs['haskids'] = pd.Categorical.from_codes(affairs['kids'], 
+                                               categories=['no', 'yes'])
+counts = affairs['haskids'].value_counts()

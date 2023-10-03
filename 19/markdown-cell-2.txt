@@ -1,0 +1,1 @@
+In the next step, we import our data and define important variables:

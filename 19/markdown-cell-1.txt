@@ -1,0 +1,10 @@
+# Working with Jupyter Notebook
+The following example is based on Script ``Descr-Figures`` from Chapter 2 and 
+demonstrates the use of **Jupyter Notebooks** to document your work step by step.
+We will describe the two most important building blocks:
+
+* basic Markdown commands to format your text in ``Markdown`` cells
+* how to import and run Python code in ``Code`` cells
+
+## Import and Prepare Data
+Let's start by importing all external modules:

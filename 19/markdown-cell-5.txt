@@ -1,0 +1,5 @@
+You can also show Python code without executing it. 
+You can use ``inline code``, or for longer paragraphs 
+```python
+plt.bar(['no', 'yes'], counts, color='dimgrey')
+```

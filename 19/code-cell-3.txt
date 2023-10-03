@@ -1,0 +1,2 @@
+age_mean = np.mean(affairs['age'])
+print(age_mean)

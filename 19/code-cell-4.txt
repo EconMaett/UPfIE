@@ -1,0 +1,1 @@
+plot = plt.pie(counts, labels=['no', 'yes'])

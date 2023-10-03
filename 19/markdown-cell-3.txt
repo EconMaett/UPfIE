@@ -1,0 +1,11 @@
+## Analyse Data
+### View your Data
+To get an overview you could use ``affairs.head()``. 
+
+### Calculate Descriptive Statistics
+Up to this point, the code cells above produced no output. 
+This will change now, as we are interested in some results. 
+Let's start with printing out the average age. We start with
+its definition and use LaTeX to enter the equation:
+$$ \bar{x} = \frac{1}{N} \sum_{i=1}^N x_{i} $$
+The resulting Python code gives:

@@ -1,0 +1,2 @@
+### Produce Graphic Results
+In Chapter 2, we saw how to produce a pie chart. Let's repeat it here:
